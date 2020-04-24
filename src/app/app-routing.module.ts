@@ -28,6 +28,7 @@ export const ROUTES: Routes = [
     pathMatch: 'full', 
     redirectTo: 'home'
   }
+  
 ];
 
 /*
